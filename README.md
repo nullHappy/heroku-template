@@ -11,4 +11,4 @@ Steps:
 5. Go to the application that you created above
 6. Click the deploy tab and select github
 (You can also deploy a specific branch instead if needed)
-=====================================================================
+
