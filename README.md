@@ -11,4 +11,5 @@ Steps:
 5. Go to the application that you created above
 6. Click the deploy tab and select github
 (You can also deploy a specific branch instead if needed)
-
+7. Select this project in the search box
+8. You can follow the log to ensure it starts cleanly
