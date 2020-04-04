@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.template;
 
 import com.zaxxer.hikari.*;
 import org.springframework.beans.factory.annotation.Value;
